@@ -1,0 +1,23 @@
+form{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem; 
+    margin-left: 22px;
+
+}
+
+button{
+    background-color: #00b300;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding : 7px
+}
+
+input{
+    /* border: none; */
+    border-radius: 5px;
+    padding : 7px;
+    justify-content: space-around;
+    
+}
